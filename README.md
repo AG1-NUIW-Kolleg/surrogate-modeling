@@ -1,10 +1,11 @@
 ![maintained](https://img.shields.io/static/v1?label=Maintained%3F&message=yes&color=brightgreen)
 ![made with Python](https://img.shields.io/static/v1?label=made%20with&message=Python&color=007396&logo=Python)
 # Project Title
-TITLE
+Surrogate Modeling for muscle models.
 
 ## Description
-DESCRIPTION
+This repository explores and applies surrogate modeling techniques in the
+context of muscle models.
 
 ## Getting Started
 
@@ -30,12 +31,7 @@ pip install virtualenv
 
 First, clone the repository by running:
 ```cmd
-git clone LINK_TO_REPOSITORY
-```
-
-If there are submodules present, initialize them with:
-```cmd
-git submodule update --init
+git clone https://github.com/AG1-NUIW-Kolleg/surrogate-modeling.git
 ```
 
 After that, create a virtual environment with:
